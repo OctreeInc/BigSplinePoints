@@ -15,9 +15,7 @@ It covers both:
 ## Features
 
 - **One-click toolbar toggle** in the level viewport, pinned next to the transform/snapping tools.
-- A **Size slider (1–100)** to dial the handle size. The engine doesn't cap it, so handles can go genuinely large.
-- **No engine modification.** It drives the engine's own runtime size settings (`ULevelEditorViewportSettings` spline adjustments and `ULandscapeSettings::SplineIconScale`) and forces the spline visualizer to refresh so the change is immediate.
-- **Non-destructive.** Your original sizes are captured on startup and restored on shutdown. State is stored per-user (Editor Per-Project User Settings) and never written to shared project config.
+- A **Size slider (1–100)** to dial the handle size.
 
 ## Install
 
