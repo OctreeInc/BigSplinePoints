@@ -35,4 +35,4 @@ Unreal Engine 5 (editor module). Win64 / Linux / Mac.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Sustainable Use License — see [LICENSE](LICENSE).
