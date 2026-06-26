@@ -1,0 +1,14 @@
+# Unreal Engine plugin build artifacts
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# IDE / OS
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+.DS_Store
