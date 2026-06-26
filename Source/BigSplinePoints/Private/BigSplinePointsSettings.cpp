@@ -1,3 +1,5 @@
+// Copyright 2026 Octree, Inc. All Rights Reserved.
+
 #include "BigSplinePointsSettings.h"
 
 UBigSplinePointsSettings::UBigSplinePointsSettings()

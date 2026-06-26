@@ -1,3 +1,5 @@
+// Copyright 2026 Octree, Inc. All Rights Reserved.
+
 using UnrealBuildTool;
 
 public class BigSplinePoints : ModuleRules
