@@ -1,6 +1,12 @@
-# Big Spline Points
+<p align="center">
+  <img src="docs/images/icon.png" width="96" alt="Big Spline Points icon">
+</p>
+
+<h1 align="center">Big Spline Points</h1>
 
 An editor-only Unreal Engine 5 plugin that adds a level-viewport toolbar toggle to **enlarge spline editing handles** — so spline control points and tangent handles are easier to see and grab when you're zoomed out or when points overlap.
+
+![Off vs On — the same spline with default handles and with Big Spline Points enabled](docs/images/before-after.png)
 
 It covers both:
 - Regular `USplineComponent` control points and tangent handles, and
